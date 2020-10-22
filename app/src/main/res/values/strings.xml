@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">SampleRecyclerView</string>
+    
+    <string-array name="programming_languages">
+        <item>C++</item>
+        <item>C#</item>
+        <item>Java</item>
+        <item>Javascript</item>
+        <item>Kotlin</item>
+        <item>Python</item>
+        <item>Ruby</item>
+        <item>Swift</item>
+        <item>TypeScript</item>
+        <item>VisualStudio</item>
+
+    </string-array>
+    
+    <string-array name="description">
+        <item>a cross-platform language that can be used to create high-performance applications</item>
+        <item>a programming language developed and launched by Microsoft in 2001</item>
+        <item>a high-level programming language developed by Sun Microsystems</item>
+        <item>a programming Language for the Web</item>
+        <item>an open-source statically typed programming language that targets the JVM, Android, JavaScript and Native</item>
+        <item>an interpreted, high-level and general-purpose programming language</item>
+        <item>a dynamic, open source programming language with a focus on simplicity and productivity</item>
+        <item>a vast messaging network used by banks and other financial institutions to quickly, accurately, and securely send and receive information, such as money transfer instructions</item>
+        <item>a strict syntactical superset of JavaScript and adds optional static typing to the language</item>
+        <item>an integrated development environment (IDE) from Microsoft</item>
+
+    </string-array>
+</resources>
